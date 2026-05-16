@@ -20,7 +20,7 @@ spec:
       containers:
       - name: webapp
 
-        image: thoufeek/webapp:latest
+        image: vishnumohan9447/webapp:latest
 
         ports:
         - containerPort: 80
